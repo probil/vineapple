@@ -1,7 +1,11 @@
 {
   "name": "vineapple",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "author": "Dave Furfero <furf@furf.com>",
+  "contributors":[{
+    "name": "Max Lyashuk",
+    "email": "m_lyashuk@ukr.net"
+  }],
   "description": "A simple Vine API client for Node.js",
   "dependencies": {
     "request": "~2.25.0",
@@ -10,8 +14,12 @@
     "q": "~0.9.6",
     "pkginfo": "~0.3.0"
   },
+  "keywords": [
+    "vine", "API", "REST","OAuth"
+  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/furf/vineapple.git"
-  }
+    "url": "https://github.com/probil/vineapple.git"
+  },
+  "license": "MIT"
 }
