@@ -29,13 +29,13 @@
 
 ### Using NPM
 
-```
-npm install vineapple
+```sh
+npm install probil/vineapple
 ```
 ### Using Git
 
-```
-git clone https://github.com/furf/vineapple.git
+```sh
+git clone https://github.com/probil/vineapple.git
 ```
 
 ## Getting Started
@@ -239,3 +239,4 @@ _In most cases, **options** refers to pagination configuration with two optional
 
 * Licence: MIT
 * Author [Dave Furfero](https://github.com/furf)
+* Contributors [Max Lyashuk](https://github.com/probil)
